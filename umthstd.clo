@@ -19,7 +19,7 @@
       \vfill
       \normalsize
       Submitted to the Graduate School of the \par
-      University of Massachusetts Amherst in partial fulfillment \par
+      University of Memphis in partial fulfillment \par
       of the requirements for the degree of \par
       \addvspace{\topskip}
       \uppercase\expandafter{\@degree} \par
@@ -156,7 +156,7 @@
     \ifpriordoctorate\@priordoctorate\par\fi
     \if@proposal
     \else
-      \@degreeabbrv, UNIVERSITY OF MASSACHUSETTS AMHERST \par
+      \@degreeabbrv, UNIVERSITY OF MEMPHIS \par
     \fi
     \addvspace{\topskip}
     \ifcochairs
